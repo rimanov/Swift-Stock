@@ -13,6 +13,7 @@ Written in Swift, this IOS app makes use of Yahoo Finance! API to pull specific 
 * Custom border for stock data
 * Daily performance chart
 * Dynamic stock price view in chart
+* Add to watchlist feature
 
 # How to use: 
 
