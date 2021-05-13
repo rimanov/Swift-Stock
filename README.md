@@ -1,6 +1,19 @@
 # SwiftStock
 Written in Swift, this IOS app makes use of Yahoo Finance! API to pull specific data based on the stock ticker symbol input by user.
 
+# Must have features:
+
+* Get data from API
+* Validate Stock Names
+* Display data correctly for each stock
+
+# Nice to have features:
+
+* Custom border for search button
+* Custom border for stock data
+* Daily performance chart
+* Dynamic stock price view in chart
+
 # How to use: 
 
 * Clone the repository to your desktop
