@@ -1,6 +1,6 @@
 # SwiftStock
 
-![alt text](https://github.com/rimanov/stockinfo/blob/main/stock.jpeg?raw=true)
+![alt text](https://github.com/rimanov/stockinfo/blob/main/stock.jpeg=100x100?raw=true)
 
 Written in Swift, this IOS app makes use of Yahoo Finance! API to pull specific data based on the stock ticker symbol input by user.
 
