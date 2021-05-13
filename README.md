@@ -7,6 +7,6 @@ Here is the basic layout:
 
 In Action: 
 
-![alt text](https://github.com/rimanov/stockinfo/blob/main/sc?raw=true)
+![alt text](https://github.com/rimanov/stockinfo/blob/main/sc.png?raw=true)
 
 
