@@ -5,5 +5,4 @@ Written in Swift, this IOS app makes use of Yahoo Finance! API to pull specific 
 
 In Action: 
 
-![alt text](https://github.com/rimanov/stockinfo/blob/main/working.png?raw=true)
 
