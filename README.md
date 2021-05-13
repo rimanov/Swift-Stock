@@ -1,12 +1,12 @@
 # SwiftStock
 Written in Swift, this IOS app makes use of Yahoo Finance! API to pull specific data based on the stock ticker symbol input by user.
 
-*#How to use: 
+# How to use: 
 
-* 1. Clone the repository to your desktop
-* 2. Open project folder
-* 3. Open .workspace proj
-* 4. Build and Run in XCODE 
+* Clone the repository to your desktop
+* Open project folder
+* Open .workspace proj
+* Build and Run in XCODE 
 
 Here is the basic layout:
 
